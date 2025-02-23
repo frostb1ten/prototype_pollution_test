@@ -1,5 +1,7 @@
 <root>
-  <__proto__>
-    <polluted>true</polluted>
-  </__proto__>
+  <constructor>
+    <prototype>
+      <polluted>true</polluted>
+    </prototype>
+  </constructor>
 </root>
